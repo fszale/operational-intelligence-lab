@@ -2,7 +2,7 @@
 
 **Building real AI capability in regional businesses — not workshops, not theory, not hype.**
 
-> A working repository — methodology, tools, and source — by **Filip Szalewicz** at [solidcage.com](https://solidcage.com).
+> A working repository — methodology, tools, and source — by **Filip Szalewicz** at [solidcage.com](https://www.solidcage.com).
 > The thesis: **rate of improvement is everything.**
 
 ---
@@ -236,9 +236,9 @@ what the Operational Intelligence Lab does.
 **Filip Szalewicz** — Architect & Methodology Owner
 - 📧 filip.szalewicz@solidcage.com
 - 🌐 [solidcage.com](https://www.solidcage.com)
-- 📅 [Book a call](https://cal.com/filip-szalewicz-wl6x3a/30min)
+- 📅 [Book a call](https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh)
 
-→ **[solidcage.com](https://solidcage.com)** — start your AI improvement
+→ **[solidcage.com](https://www.solidcage.com)** — start your AI improvement
 journey.
 
 ---
